@@ -22,3 +22,5 @@ npm run dev
 ```sh
 npm run build
 ```
+## You can see this project
+- https://like-ocean.github.io/Game-stat/
